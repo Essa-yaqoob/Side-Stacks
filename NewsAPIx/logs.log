@@ -1,0 +1,111 @@
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T13:06:59.567Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T13:07:44.166Z'
+}{
+  message: 'kaka is not defined',
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T13:14:16.586Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:32:40.842Z'
+}
+{
+  message: "Cannot access 'hashedPassword' before initialization",
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:33:31.877Z'
+}
+{
+  message: "Cannot access 'hashedPassword' before initialization",
+  level: 'error',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:34:49.921Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:36:02.901Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:36:38.907Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:38:17.014Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:39:38.352Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:42:00.570Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:43:27.478Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-26T15:44:26.692Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-27T06:36:25.959Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-27T06:41:54.159Z'
+}
+{
+  message: 'Request was successful',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2025-04-27T06:47:10.961Z'
+}
